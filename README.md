@@ -1,10 +1,5 @@
 # Motoman
 
-[ROS-Industrial][] Motoman metapackage. See the [ROS wiki][] page for more information.
-
-The [motoman_experimental][] repository contains additional packages.
-
-
 ## Contents
 Forked from [ros-industrial/motoman](https://github.com/ros-industrial/motoman)
 
